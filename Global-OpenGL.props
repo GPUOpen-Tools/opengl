@@ -10,7 +10,7 @@
       <AdditionalIncludeDirectories>$(OpenGLDir)Include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
-      <AdditionalLibraryDirectories>$(OpenGLDir)lib\$(GDTPlatform)\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(OpenGLDir)lib\$(AMDTPlatform)\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
